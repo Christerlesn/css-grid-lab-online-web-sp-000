@@ -9,7 +9,6 @@ body {
   width: 100vw;
   display: grid;
   grid-auto-rows:[header] 10%;
-  grid-auto-columns:75%;
 }
 
 .grid-item {
