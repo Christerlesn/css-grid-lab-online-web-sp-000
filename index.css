@@ -9,6 +9,7 @@ body {
   width: 100vw;
   display: grid;
   grid-auto-rows:[header] 50px;
+  grid-auto-columns:1fr;
 }
 
 .grid-item {
