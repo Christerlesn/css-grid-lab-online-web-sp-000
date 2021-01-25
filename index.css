@@ -8,7 +8,7 @@ body {
   height: 100vh;
   width: 100vw;
   display: grid;
-  grid-template: [rows] 1fr 1fr 1fr 1fr/ [columns] 1fr 1fr 1fr;
+  grid-template: [something-extremely-long-to-see-if-can-see-it] 1fr 1fr 1fr 1fr/ [columns] 1fr 1fr 1fr;
 }
 
 .grid-item {
